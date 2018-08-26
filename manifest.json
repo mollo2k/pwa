@@ -1,0 +1,38 @@
+{
+  "short_name": "Mi App PWA",
+  "name": "Prueba Basica de PWA",
+  "description": "Esto es una prueba para PWA",
+  "background_color": "#2B2",
+  "theme_color": "#F0DB4F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-BO",
+  "icons": [{
+      "src": "./img/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+  },
+  {
+    "src": "./img/favicon.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  },
+  {
+    "src": "./img/favicon.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  },
+  {
+    "src": "./img/favicon.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  },
+  {
+    "src": "./img/favicon.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }
+  ]
+}
