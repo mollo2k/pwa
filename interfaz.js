@@ -18,4 +18,8 @@ function freg_sw() {
 function fload() {
 	vload = true;
 	console.log("Carga completa...");
+	if (window.matchMedia('(display-mode: standalone)').matches) {
+		console.log('Modo standalone');
+  }
+
 }
