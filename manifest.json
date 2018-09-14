@@ -1,7 +1,7 @@
 {
   "short_name": "Mi App PWA",
   "name": "Prueba Basica de PWA",
-  "description": "Esto es una prueba para PWA",
+  "description": "Descripcion de: Esto es una prueba para PWA",
   "background_color": "#2B2",
   "theme_color": "#F0DB4F",
   "display": "standalone",

@@ -1,5 +1,24 @@
 /* Comentario para css */
-	#breg_sw {
-	/*background-color: green;*/
-	color: #ABC;
-	}
+#breg_sw {
+/*background-color: green;*/
+color: #black;
+}
+
+@media all and (display-mode: standalone) { /* Si standalone, se pone amarillo */
+  body {
+    background-color: yellow;
+  }
+}
+dl{
+  margin: 1rem;
+  background-color: cornflowerblue;
+  color: cornsilk;
+}
+dt{
+  color: whitesmoke;
+  position: sticky;
+  top: 0.25rem;
+}
+dd{
+  font-size: 1.2rem;
+}
