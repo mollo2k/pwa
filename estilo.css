@@ -1,7 +1,7 @@
 /* Comentario para css */
-#breg_sw {
+#btn_reg_sw {
 /*background-color: green;*/
-color: #black;
+/* background: #ed1f3c !Important; */
 }
 
 @media all and (display-mode: standalone) { /* Si standalone, se pone amarillo */

@@ -12,7 +12,7 @@ function fload() {
   }else{
 		vbtn_reg.disabled = false;
 		vbtn_reg.value = "Instalar PWA como APP";
-		vbtn_reg.style.color = "green";
+		vbtn_reg.style.color = "black";
 		console.log('Modo: browser');
 	}
 }
